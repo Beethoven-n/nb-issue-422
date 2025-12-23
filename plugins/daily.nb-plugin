@@ -9,6 +9,10 @@
 #
 # A plugin for `nb`.
 #   https://github.com/xwmx/nb
+#
+# Environment variables created:
+# - NB_DAILY_TIMESTAMP_FORMAT
+# - NB_DAILY_DATESTAMP_FORMAT
 ###############################################################################
 
 # Add the new subcommand name with `_subcommands add <name>`.
